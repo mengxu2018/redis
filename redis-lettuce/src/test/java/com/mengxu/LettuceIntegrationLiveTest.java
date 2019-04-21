@@ -1,4 +1,4 @@
-package com.baeldung;
+package com.mengxu;
 
 import io.lettuce.core.*;
 import io.lettuce.core.api.StatefulRedisConnection;
